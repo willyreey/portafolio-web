@@ -13,6 +13,7 @@ body {
 }
 
 header {
+    padding: 5rem 0;
     background-color: #6347ee;
     color: #fff;
     padding: 1rem 0;
@@ -159,7 +160,7 @@ header nav ul li a {
 }
 
 .contacto {
-    padding: 4rem 0;
+    padding: 2rem;
     text-align: center;
 }
 
